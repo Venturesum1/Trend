@@ -8,7 +8,7 @@ const Header: React.FC = () => {
       <div className="container flex h-16 items-center">
         <div className="flex items-center gap-2">
           <BarChart2 className="h-6 w-6 text-primary" />
-          <span className="font-semibold text-xl">Trend Beacon</span>
+          <span className="font-semibold text-xl">Trend Aggregator</span>
           <span className="text-sm text-muted-foreground hidden md:inline-block">
             | Reddit API Explorer
           </span>
